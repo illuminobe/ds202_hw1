@@ -1,0 +1,14 @@
+---
+title: "partner"
+Name: "YiHangKhor"
+Github: "bobbykhor"
+Date: "1/27/2020"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Owner's commit ID :830c699c5d1e3b5b607daac64d7d4d7142333e66
+Owner typed in 'This is hw1.html'
+Had to change photo file to photo link
