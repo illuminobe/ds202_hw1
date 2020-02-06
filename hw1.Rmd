@@ -19,7 +19,7 @@ knitr::opts_chunk$set(echo = TRUE)
     c. an italized and a bolded word.
     
     I think a job that is related to data science is working as a **Statistician** because *statistics* is one of the most fundamental parts of data science. Statistical methods allows us to have deeper insight into data and helps us analyze and quantify any uncertainty. Josh Wills [tweeted](https://twitter.com/josh_wills/status/198093512149958656?s=20), "Data Scientist (n.): Person who is better at statistics than any software engineer and better at software engineering than any statistician.", which improves my opinion that a Statistician is a job related to data science.
-    ![](dspic.png)
+    ![](https://miro.medium.com/max/993/1*mgXvzNcwfpnBawI6XTkVRg.png)
 
 3. To make sure your R and Rstudio installation is correct, find the version of R by entering `version` into the R console. Put this command into a R code trunk in your `Rmd` file to automatically include the R version in your report.
 
